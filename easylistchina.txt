@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: ud75/omjDs5SycOKKjTy8g
-! Version: 202105190042
+! Checksum: SRwX8KVyYENfJjk+YfbF+w
+! Version: 202105200032
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -1195,6 +1195,7 @@
 ||https://8d8d.me/images/dealer.gif
 ||https://8maple.ru/dzcm$rewrite=abp-resource:1x1-transparent-gif
 ||https://8seaa.com/template/assets1/js/vue.js
+||https://8xia.com/otherhtml/
 ||https://8ziyuan.com/images/infolinksad.jpg
 ||https://900.la/imgs/1bb725da-974f-43da-9eb9-dfdebc224949/2015-12-18/zg3wwaug.gif
 ||https://900.la/imgs/d829d551-1d6e-4018-b3fe-78991bbbe2d6/2016-06-27/yiwmbica.gif
@@ -5561,6 +5562,8 @@
 ||https://hm.baidu.com^$third-party
 ||https://sinajs.cn/open/analytics/
 ||https://wrating.com^$third-party
+||http://lpsgc.cn^
+||http://yi71.com.cn^
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
 ||http://008844.cc^
@@ -6765,6 +6768,7 @@
 ||http://k3851.com^$third-party
 ||http://k9dzax.cn^
 ||http://ka12138.top^
+||http://kagdf.com^
 ||http://kaixinjiehun.com^$third-party
 ||http://kakayy.com^$third-party
 ||http://kan5.xyz^
@@ -7583,6 +7587,7 @@
 ||http://xmshqh.com^$third-party
 ||http://xmtsyg.com^
 ||http://xmxxwl.com^
+||http://xmzwdgm.com^
 ||http://xn--2qu92fhtx4ff.icu^
 ||http://xn--2qu96gouvko1a.com^
 ||http://xn--2qux23c9ziyrq.video^
@@ -8525,6 +8530,7 @@
 ||http://8jkx.com^
 ||http://8maple.ru/dzcm$rewrite=abp-resource:1x1-transparent-gif,domain=8maple.ru
 ||http://8seaa.com/template/assets1/js/vue.js
+||http://8xia.com/otherhtml/
 ||http://8ziyuan.com/images/infolinksad.jpg
 ||http://900.la/imgs/1bb725da-974f-43da-9eb9-dfdebc224949/2015-12-18/zg3wwaug.gif
 ||http://900.la/imgs/d829d551-1d6e-4018-b3fe-78991bbbe2d6/2016-06-27/yiwmbica.gif
@@ -13453,8 +13459,6 @@
 ||http://haoxianggou.xyz/?from=$popup,third-party
 ||http://dlkoo.com/down/$subdocument
 ||http://dlkoo.com/down/copy
-||http://lpsgc.cn^
-||http://yi71.com.cn^
 ||http://dnvodcdn.me/fast/*.mp4
 ||http://flyv.tv/a/$xmlhttprequest
 ||http://ifvod.tv/a/$xmlhttprequest
@@ -14573,6 +14577,7 @@
 ||http://miyaluorenliziuan.cn^
 ||http://mjita.cn^
 ||http://mjtowot.cn^
+||http://mjvmypr.cn^
 ||http://mkjunc.cn^
 ||http://ml44.cn^
 ||http://mlion.cn^
@@ -15258,6 +15263,7 @@
 ||http://yjxqy.com^
 ||http://ykanx.com^
 ||http://ykpbgqc.top^
+||http://ylppppp.cn^
 ||http://ylykd.cn^
 ||http://ymxlm.cc^
 ||http://ynbzxh.com^
@@ -16696,6 +16702,7 @@ https://tahua.net###frameJjnBIp
 https://dabin69.com###frameOa2lrD
 https://ytshe.com###frameUTSzKE
 https://yangluo.cn###frameVw7574
+https://laowang.vip###frameYl5IOf
 https://gz0668.com###framec32DR1
 https://tvapk.net###framecd6V1M
 https://hcbbs.com###framedtSuR9
@@ -23111,6 +23118,7 @@ http://tahua.net###frameJjnBIp
 http://dabin69.com###frameOa2lrD
 http://ytshe.com###frameUTSzKE
 http://yangluo.cn###frameVw7574
+http://laowang.vip###frameYl5IOf
 http://gz0668.com###framec32DR1
 http://tvapk.net###framecd6V1M
 http://hcbbs.com###framedtSuR9
