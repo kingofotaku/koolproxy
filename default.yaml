@@ -1,0 +1,12 @@
+hosts:
+   router.asus.com: 192.168.1.1
+   services.googleapis.cn: 74.125.193.94
+   kingofotaku.asuscomm.com: 192.168.1.1
+   gz-data.com: 127.0.0.1
+   advapikj.joyplus.tv: 127.0.0.1
+   alog.umeng.com: 127.0.0.1
+   cdn.kkapp.com: 127.0.0.1
+   cloudserv.bbtv.cn: 127.0.0.1
+   tv.kkapp.com: 127.0.0.1
+   tv.showcome.net: 127.0.0.1
+   tvpic.bbtv.cn: 127.0.0.1
