@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 8GfhmnlmSaY9zW2BoKuA3g
-! Version: 202105250042
+! Checksum: vvFa/ySCci4TC6sVBUQbvA
+! Version: 202105260052
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -4845,6 +4845,11 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
+||https://kekeshici.com/pc/images/pcAd.gif
+||https://mydrivers.com/2021/news/*_300250.
+||https://jsdelivr.net/gh/yaofa88/bifa@main/*960
+||https://molimao.top/imp/upload/vod/*.gif
+||https://bbnnnb.com^*.js
 ||https://17ce.com^*_$image
 ||https://69t49.com/floating/layer.js
 ||https://alicdn.com/img/ibank/*_!!2210231227621-0-cib.
@@ -5566,6 +5571,7 @@
 ||https://hm.baidu.com^$third-party
 ||https://sinajs.cn/open/analytics/
 ||https://wrating.com^$third-party
+||http://poasotha.com^
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
 ||http://008844.cc^
@@ -12645,6 +12651,11 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
+||http://kekeshici.com/pc/images/pcAd.gif
+||http://mydrivers.com/2021/news/*_300250.
+||http://jsdelivr.net/gh/yaofa88/bifa@main/*960
+||http://molimao.top/imp/upload/vod/*.gif
+||http://bbnnnb.com^*.js
 ||http://17ce.com^*_$image
 ||http://3336672.com^
 ||http://3337729.com^
@@ -13492,6 +13503,8 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
+||http://huiqingvip.cn^
+||http://pstatp.com^$domain=feisucn.com
 ||http://habyc.com^
 ||http://01tn.cn^
 ||http://027whht.com^
@@ -16151,6 +16164,8 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
+https://kekeshici.com###pcAd
+https://douyu.com##.adcontainer
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -22574,6 +22589,8 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
+http://kekeshici.com###pcAd
+http://douyu.com##.adcontainer
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
