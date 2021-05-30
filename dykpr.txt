@@ -29,8 +29,6 @@
 
 #韩剧tv
 
-||raddus.bayescom.com
-
 ||static.hanju.koudaibaobao.com
 ||adsmind.updtimg.com
 ||pgdt.updtimg.com
@@ -49,6 +47,8 @@
 ||canvas.gdt.qq.com
 ||raddus.bayescom.com
 ||imgcache.qq.com
+
+
 
 #youku
 ||vali-g1.cp31.ott.cibntv.net
