@@ -2,12 +2,16 @@ dns:
   enable: true
   ipv6: true
   listen: :23453
-  enhanced-mode: redir-host 
+  enhanced-mode: redir-host
+  default-nameserver:
+    - 119.29.29.29
+    - 1.1.1.1    
   nameserver:
     - tls://223.5.5.5:853
   fallback:
-    - tls://8.8.8.8:853
+    - tls://1.1.1.1:853
     - tls://185.222.222.222:853
+    - tls://8.8.8.8:853
   fallback-filter:
     geoip: true
     ipcidr:
