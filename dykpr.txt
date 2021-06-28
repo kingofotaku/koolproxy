@@ -103,7 +103,7 @@
   <link rel="assets" href="https://github.githubassets.com/">
   
 
-  <meta name="request-id" content="A92A:029F:948A23:A94CB8:60DA0FBB" data-pjax-transient="true" /><meta name="html-safe-nonce" content="de415a6ca3d92e67cf2173a501f6e0a7bb2a70d42832513e4f8eb33523e98f40" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6bnVsbCwicmVxdWVzdF9pZCI6IkE5MkE6MDI5Rjo5NDhBMjM6QTk0Q0I4OjYwREEwRkJCIiwidmlzaXRvcl9pZCI6IjQ1Mzg1Njk2NDM1NjE0NTU1NDciLCJyZWdpb25fZWRnZSI6ImFwLW5vcnRoZWFzdC0xIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="5223c8a6e38d332950d69cca43638401d8b36c2d9673e1063126458567eb12ed" data-pjax-transient="true" />
+  <meta name="request-id" content="9DF8:1743:2B0A86:3F4700:60DA149C" data-pjax-transient="true" /><meta name="html-safe-nonce" content="d31cc0093abb481075818a102cc079a0d92e9b4a425987e2c9137f04da2ede39" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6bnVsbCwicmVxdWVzdF9pZCI6IjlERjg6MTc0MzoyQjBBODY6M0Y0NzAwOjYwREExNDlDIiwidmlzaXRvcl9pZCI6IjQ0MzkzNjAzNzQzNzk3NzkyMjgiLCJyZWdpb25fZWRnZSI6ImFwLW5vcnRoZWFzdC0xIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="9b0722301177059e0ac9e609741cf7552b9bf6c664cf854a59c5920e2e2427ec" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:374493046" data-pjax-transient>
 
@@ -350,7 +350,7 @@
             spellcheck="false"
             autocomplete="off"
           >
-          <input type="hidden" value="80X8cis/tDfyg+7TaEoh7b+v36CvC42hAEQTy4IIXaH40XqIr/M+xLSjskD7ElhK6+qh7JQyJDycIMbe0njvow==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+          <input type="hidden" value="Vky76qHGvSEP27m3RDpruy4UNHkRaGwBCS5xFwUMvuuFLejPnXyGYc8/Z7xoptAIzqBJ9xc01iTCW7U0onvOiQ==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
               <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -515,7 +515,7 @@
   <div style="width: 300px" data-view-component="true" class="Popover-message Box color-text-primary p-4 mt-2 mx-auto text-left color-shadow-large">
     <h4 data-view-component="true" class="color-text-primary mb-2">                Sign in to GitHub
 </h4>
-                    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/session" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="iq7EH4d2cMJ6VgqH8ih1wkYq8HNFRRwOO8+QNT25KkUrZ1bXXn0sPnOh7lryT8qeQDeoGoCryEbOdfBtjJ4N7Q==" />  <label for="login_field">
+                    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/session" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="pkGJuyZD6ZCDCOLPV1HXbisXW9HSgSXpe4LLsrhf4627H5bt6ZQ8pPqAgu/KDg8B+niTFB4d/3e6DflV/faZkg==" />  <label for="login_field">
     Username or email address
   </label>
   <input type="text" name="login" id="login_field" class="form-control input-block" autocapitalize="off" autocorrect="off" autocomplete="username" autofocus="autofocus" />
@@ -532,7 +532,7 @@
 <input type="hidden" name="allow_signup" id="allow_signup" class="form-control" />
 <input type="hidden" name="client_id" id="client_id" class="form-control" />
 <input type="hidden" name="integration" id="integration" class="form-control" />
-<input type="text" name="required_field_4e75" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1624903611437" class="form-control" /><input type="hidden" name="timestamp_secret" value="554753bde200945b35dddabd839005de2108dcb54e570515c0f5495db4972a08" class="form-control" />
+<input type="text" name="required_field_aea6" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1624904860927" class="form-control" /><input type="hidden" name="timestamp_secret" value="3a728085a1cd50222689cf7d7409b4f563461ec845ab3f9bf7a8fd284dba78ea" class="form-control" />
 
     <input type="submit" name="commit" value="Sign in" class="btn btn-primary btn-block" data-disable-with="Signing in…" />
 
