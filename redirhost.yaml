@@ -3,9 +3,6 @@ dns:
   ipv6: true
   listen: :23453
   enhanced-mode: redir-host
-  default-nameserver:
-    - 119.29.29.29
-    - 1.1.1.1    
   nameserver:
     - tls://223.5.5.5:853
   fallback:
