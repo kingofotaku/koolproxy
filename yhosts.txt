@@ -1060,7 +1060,6 @@
 ||https://rcmd.pop.ijinshan.com
 ||https://rcv.mobad.ijinshan.com
 ||https://ad.mi.com
-||https://adv.sec.miui.com
 ||https://api.ad.xiaomi.com
 ||https://api.e.mi.com
 ||https://cdn.ad.xiaomi.com
@@ -1075,12 +1074,8 @@
 ||https://test.ad.xiaomi.com
 ||https://test.e.ad.xiaomi.com
 ||https://test.zeus.ad.xiaomi.com
-||https://tracking.miui.com
 ||https://zeus.ad.xiaomi.com
 ||https://etl.xlmc.sandai.net
-||https://api.tw06.xlmc.sec.miui.com
-||https://etl.xlmc.sec.miui.com
-||https://fb.xk.miui.com
 ||https://wtradv.market.xiaomi.com
 ||https://cloudservice12.kingsoft-office-service.com
 ||https://cloudservice13.kingsoft-office-service.com
@@ -2806,7 +2801,6 @@
 ||https://api.ssp.zxrtb.com
 ||https://api.tongji.today
 ||https://api.xiaohuxi.cn
-||https://api.xk.miui.com
 ||https://api.zhy333.com
 ||https://apisoft.df0535.com
 ||https://apkim.w0kzkd.cn
@@ -5456,7 +5450,6 @@
 ||https://mic.ububyiw6655.xyz
 ||https://miaobeichina.com
 ||https://mil.gbzumh.cn
-||https://miui.hftaili.com
 ||https://miv.ububyiw6655.xyz
 ||https://mj70.cn
 ||https://mjf.lijun8.com
@@ -10411,7 +10404,6 @@
 ||http://rcmd.pop.ijinshan.com
 ||http://rcv.mobad.ijinshan.com
 ||http://ad.mi.com
-||http://adv.sec.miui.com
 ||http://api.ad.xiaomi.com
 ||http://api.e.mi.com
 ||http://cdn.ad.xiaomi.com
@@ -10426,12 +10418,8 @@
 ||http://test.ad.xiaomi.com
 ||http://test.e.ad.xiaomi.com
 ||http://test.zeus.ad.xiaomi.com
-||http://tracking.miui.com
 ||http://zeus.ad.xiaomi.com
 ||http://etl.xlmc.sandai.net
-||http://api.tw06.xlmc.sec.miui.com
-||http://etl.xlmc.sec.miui.com
-||http://fb.xk.miui.com
 ||http://wtradv.market.xiaomi.com
 ||http://cloudservice12.kingsoft-office-service.com
 ||http://cloudservice13.kingsoft-office-service.com
@@ -12157,7 +12145,6 @@
 ||http://api.ssp.zxrtb.com
 ||http://api.tongji.today
 ||http://api.xiaohuxi.cn
-||http://api.xk.miui.com
 ||http://api.zhy333.com
 ||http://apisoft.df0535.com
 ||http://apkim.w0kzkd.cn
@@ -14807,7 +14794,6 @@
 ||http://mic.ububyiw6655.xyz
 ||http://miaobeichina.com
 ||http://mil.gbzumh.cn
-||http://miui.hftaili.com
 ||http://miv.ububyiw6655.xyz
 ||http://mj70.cn
 ||http://mjf.lijun8.com

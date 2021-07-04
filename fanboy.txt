@@ -7412,7 +7412,6 @@ https://toggle.sg###scroll-top-button
 https://indiatimes.com,marketbusinessnews.com,philstar.com###scrollTop
 https://myfaith.tv,vosizneias.com###scroll_top
 https://weathernationtv.com###scroller
-https://gigaset.com,miui.com,mytheresa.com###scrolltop
 https://narita-transit-program.jp###site-scrolltop
 https://irusa.org###slide_top
 https://oneplus.com###sticky-tools-btn
@@ -18262,7 +18261,6 @@ http://toggle.sg###scroll-top-button
 http://indiatimes.com,marketbusinessnews.com,philstar.com###scrollTop
 http://myfaith.tv,vosizneias.com###scroll_top
 http://weathernationtv.com###scroller
-http://gigaset.com,miui.com,mytheresa.com###scrolltop
 http://narita-transit-program.jp###site-scrolltop
 http://irusa.org###slide_top
 http://oneplus.com###sticky-tools-btn

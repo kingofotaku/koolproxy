@@ -122,7 +122,6 @@ https://www.douyu.com##.closeBg-998534
 @@@@https://115.com
 @@@@https://cdnres.115.com
 ! MIUI骚扰拦截库更新功能放行
-@@@@https://api.sec.miui.com
 !微博分享图片放行
 @@@@||https://sinaimg.cn
 ! jsdelivr放行
@@ -158,11 +157,8 @@ https://www.douyu.com##.closeBg-998534
 ||https://pandora.mi.com
 ||https://pandora.xiaomi.com
 ||data.mistat.xiaomi.com
-||tracking.miui.com
 ||http://data.mistat.xiaomi.com
-||http://tracking.miui.com
 ||https://data.mistat.xiaomi.com
-||https://tracking.miui.com
 !播放出现问题时  可以删减 此区域的 Host 地址
 ||http://img.cdn.mvideo.xiaomi.com
 ||img.cdn.mvideo.xiaomi.com
