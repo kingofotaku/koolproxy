@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 0sRitbpSPtozCoTK/usz7g
-! Version: 202107040035
+! Checksum: AecnDkj8eughtnz54VQHDw
+! Version: 202107050034
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -1428,7 +1428,6 @@
 ||https://alicdn.com/kf/Ucdb60470db0f4e2ca6a52706ec252313S.jpg
 ||https://alicdn.com/kf/Ue69786430095482ba55b38ae31ee44e7I.jpg
 ||https://alicdn.com/kf/Ufb1c57128ee14e7d88841812d0d280abo.gif
-||https://alicdn.com/kf/Ufd682a9d70524fc895a0059f276998196.jpg
 ||https://alicdn.com/kf/UTB8tVxYvbPJXKJkSafS5jaqUXXac.gif
 ||https://alicdn.com/openad/dsp-front-booth/
 ||https://alicdn.com/tfs/TB1fwaTDhD1gK0jSZFyXXciOVXa-800-450.jpg
@@ -2996,6 +2995,7 @@
 ||https://kajila.cn/ad.html
 ||https://kakadm.com/js/loadjs/jquery
 ||https://kalvin.cn/page/img/
+||https://kan-ju.net/cr.gif
 ||https://kan98.com/images/*.gif
 ||https://kan98.com/statics/js/k2017/kan98.js
 ||https://kancloud.cn/ad/
@@ -4844,7 +4844,6 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
-||https://kan-ju.net/cr.gif
 ||https://17ce.com^*_$image
 ||https://69t49.com/floating/layer.js
 ||https://alicdn.com/img/ibank/*_!!2210231227621-0-cib.
@@ -5566,8 +5565,6 @@
 ||https://hm.baidu.com^$third-party
 ||https://sinajs.cn/open/analytics/
 ||https://wrating.com^$third-party
-||http://zhangjunying.top^
-||http://yl-zipper.com^
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
 ||http://008844.cc^
@@ -7751,6 +7748,7 @@
 ||http://yiwad.com^$third-party
 ||http://yixige.com^$third-party
 ||http://yixui.com^
+||http://yl-zipper.com^
 ||http://ylfgybn.cn^
 ||http://ylflwbj.cn^
 ||http://ylzx.net^$third-party
@@ -7847,6 +7845,7 @@
 ||http://zhaibei112.top^
 ||http://zhandi.cc^$third-party
 ||http://zhangbaochang.top^
+||http://zhangjunying.top^
 ||http://zhangkc.com^
 ||http://zhangranfilm.com^
 ||http://zhengyahong.cn^
@@ -8869,7 +8868,6 @@
 ||http://alicdn.com/kf/Ucdb60470db0f4e2ca6a52706ec252313S.jpg
 ||http://alicdn.com/kf/Ue69786430095482ba55b38ae31ee44e7I.jpg
 ||http://alicdn.com/kf/Ufb1c57128ee14e7d88841812d0d280abo.gif
-||http://alicdn.com/kf/Ufd682a9d70524fc895a0059f276998196.jpg
 ||http://alicdn.com/kf/UTB8tVxYvbPJXKJkSafS5jaqUXXac.gif
 ||http://alicdn.com/openad/dsp-front-booth/
 ||http://alicdn.com/tfs/TB1fwaTDhD1gK0jSZFyXXciOVXa-800-450.jpg
@@ -10661,6 +10659,7 @@
 ||http://kajila.cn/ad.html
 ||http://kakadm.com/js/loadjs/jquery
 ||http://kalvin.cn/page/img/
+||http://kan-ju.net/cr.gif
 ||http://kan98.com/images/*.gif
 ||http://kan98.com/statics/js/k2017/kan98.js
 ||http://kancloud.cn/ad/
@@ -11401,6 +11400,7 @@
 ||http://qingkai.com/gg_img/
 ||http://qingkong.net/skin/htcs/images/980.jpg
 ||http://qingsedhh.com/images/gg.gif
+||http://qishenga.com^$domain=meiju11.com
 ||http://qiuw.com/static/xin-ad.js
 ||http://qiuyi.cn/Baojian/
 ||http://qixingquan.com/api.php?mod=ad&adid=
@@ -12682,7 +12682,6 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
-||http://kan-ju.net/cr.gif
 ||http://17ce.com^*_$image
 ||http://3336672.com^
 ||http://3337729.com^
@@ -13728,6 +13727,7 @@
 ||http://abie18.top^
 ||http://abie25.top^
 ||http://abie9.top^
+||http://abovede6.com^
 ||http://abuse8.com^
 ||http://ac56.xyz^
 ||http://acaog.com^
@@ -14177,6 +14177,7 @@
 ||http://ffupiiv.cn^
 ||http://ffyyfy.top^
 ||http://fhixhde.cn^
+||http://fhlong2000.xyz^
 ||http://findx2.info^
 ||http://fintechpi.com^
 ||http://fj95560.com^
@@ -15351,6 +15352,7 @@
 ||http://x81zw.com^*.gif
 ||http://xabtx.com^
 ||http://xacqp.com^
+||http://xafengzhij.xyz^
 ||http://xafxs.cn^
 ||http://xamaky.top^
 ||http://xamiqi.top^
