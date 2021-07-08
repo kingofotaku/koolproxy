@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: CEyIuO6ofGlT8wpL1rbQ9g
-! Version: 202107070035
+! Checksum: LbQ+NGD2FJ+4x3im2KXmzA
+! Version: 202107080034
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -14017,6 +14017,7 @@
 ||http://cxcxt.com^
 ||http://cxjju.cn^
 ||http://cxmob.net^
+||http://cxmygp.xyz^
 ||http://cxzudwk.com^
 ||http://cy-ck.top^
 ||http://cyboke.cn^
@@ -14456,6 +14457,7 @@
 ||http://isgow.com^
 ||http://ishowms.com^
 ||http://isles.cn^
+||http://itchess.cn^
 ||http://itcoder.top^
 ||http://iyouhu.cn^
 ||http://izuis.com^
@@ -15005,6 +15007,7 @@
 ||http://sangwu8.com/tu/
 ||http://sanitwealth.com^
 ||http://sanxueshufa.cn^
+||http://sanzhong.co^
 ||http://sasoo.cn^
 ||http://sbenx.com^
 ||http://sbinx.com^
@@ -15134,6 +15137,7 @@
 ||http://taikangshenyuan.com^
 ||http://taishijian.com^
 ||http://tajxgs.com^
+||http://tangequan.co^
 ||http://taomochou.cn^
 ||http://tatjhh.cn^
 ||http://tbaia.com^
@@ -15491,6 +15495,7 @@
 ||http://yrrsckr.cn^
 ||http://ysfc360.cn^
 ||http://yssm.info/sm/true.js
+||http://yswenhua.com^
 ||http://ysxs8.com/js/bd_top.js
 ||http://ysxs8.com/js/play_db.js
 ||http://ysyhljt.vip^
@@ -20523,7 +20528,7 @@ https://1stchina.net,717dyi.com,86cg.me,aiqiyivip.com,duodada.com,liaocao.tv,nic
 https://duonaolive.com##[onclick^="track"]
 https://6090ba.com,717dyi.com,aiqiyivip.com,duodada.com,qhdi.com##[ontouchstart]
 https://duodada.com##[style*="position: fixed; left: 0px;"]
-https://fzdm.com##[style="width:100%;height:auto;min-height:120px;position:relative;display:block;"]
+https://fffdm.com##[style^="width"][style*="height"]
 https://kisssub.org##a > img[src*=".0o0.ooo/"]
 https://5dm.tv##a > img[src*=".sinaimg."]
 https://ruanyifeng.com##a > img[src*="wangbase.com/blogimg/asset/"]
@@ -26999,7 +27004,7 @@ http://1stchina.net,717dyi.com,86cg.me,aiqiyivip.com,duodada.com,liaocao.tv,nico
 http://duonaolive.com##[onclick^="track"]
 http://6090ba.com,717dyi.com,aiqiyivip.com,duodada.com,qhdi.com##[ontouchstart]
 http://duodada.com##[style*="position: fixed; left: 0px;"]
-http://fzdm.com##[style="width:100%;height:auto;min-height:120px;position:relative;display:block;"]
+http://fffdm.com##[style^="width"][style*="height"]
 http://kisssub.org##a > img[src*=".0o0.ooo/"]
 http://5dm.tv##a > img[src*=".sinaimg."]
 http://ruanyifeng.com##a > img[src*="wangbase.com/blogimg/asset/"]
