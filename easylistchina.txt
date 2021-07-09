@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: LbQ+NGD2FJ+4x3im2KXmzA
-! Version: 202107080034
+! Checksum: HOwutb4rpphoVRlFqJyogg
+! Version: 202107090034
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -3640,6 +3640,7 @@
 ||https://pstatp.com/origin/13816000374e83a453717.jpg
 ||https://pstatp.com/origin/fef20000e7013b3511b6
 ||https://pstatp.com/origin/pgc-image/19cc5443033e4a67b040446b5b7a8ce0
+||https://pstatp.com/origin/pgc-image/bb2ebb31f0964de3b36ba5f5b6fcc521
 ||https://psyzg.com/Public/Home/images/tuhe_240_236.gif
 ||https://ptbus.com/s.js
 ||https://ptfish.com/*/ad$image,object
@@ -5861,6 +5862,7 @@
 ||http://85tgw.com^
 ||http://860010.com^
 ||http://88-baidu.com^
+||http://887251.com^
 ||http://88818122.cn^
 ||http://8881919.cc^
 ||http://88cpc.com^$third-party
@@ -6723,6 +6725,7 @@
 ||http://jntmedia.cn^$third-party
 ||http://jnxz88.cn^
 ||http://jnyngg.cn^
+||http://joannalaura.com^
 ||http://johtzj.com^
 ||http://jointreport-switch.com^$third-party
 ||http://jozee.cn^
@@ -7456,6 +7459,7 @@
 ||http://v.xi666.com^$third-party
 ||http://v9wuyulou.com^
 ||http://vaedan.top^
+||http://vainews.cn^
 ||http://valueur.com^
 ||http://vamaker.com^$third-party
 ||http://vc370.com^
@@ -11350,6 +11354,7 @@
 ||http://pstatp.com/origin/13816000374e83a453717.jpg
 ||http://pstatp.com/origin/fef20000e7013b3511b6
 ||http://pstatp.com/origin/pgc-image/19cc5443033e4a67b040446b5b7a8ce0
+||http://pstatp.com/origin/pgc-image/bb2ebb31f0964de3b36ba5f5b6fcc521
 ||http://pstatp.com^$domain=ahah3.com|beiwodi.com|i5qs.com|manhua123.net
 ||http://psyzg.com/Public/Home/images/tuhe_240_236.gif
 ||http://ptbus.com/s.js
@@ -11751,6 +11756,7 @@
 ||http://ssgg.chazidian.com^
 ||http://ssjv1.com/dm/
 ||http://ssnn.net^*-200-250.jpg
+||http://ssp.21ic.com^
 ||http://ssp.hinet.net^
 ||http://ssp.kdnet.net^
 ||http://ssp.njxzwh.com^
@@ -13915,6 +13921,7 @@
 ||http://calculated.cn^
 ||http://caofta.cn^
 ||http://cathaycentury.com^
+||http://cbgyhe.cn^
 ||http://cbxe1r.cn^
 ||http://cbyckdf.cn^
 ||http://cchfjz.com^
@@ -13958,6 +13965,7 @@
 ||http://chongnikeji.com^
 ||http://chuangjulm.cn^
 ||http://chuanjiae.cn^
+||http://churchatsouthcreek.com^
 ||http://chuzrra.cn^
 ||http://cifree.xyz^
 ||http://cike666.com^
@@ -14175,6 +14183,7 @@
 ||http://fhlong2000.xyz^
 ||http://findx2.info^
 ||http://fintechpi.com^
+||http://first11.cn^
 ||http://fj95560.com^
 ||http://fjhanmei.com^
 ||http://fjmrxys.com^
@@ -14265,6 +14274,7 @@
 ||http://gralfusnzpo007.top^
 ||http://gralfusnzpo008.top^
 ||http://graypay1.cn^
+||http://greeknaturalcyprus.com^
 ||http://grjs02.com^
 ||http://grjs06.com^
 ||http://grjs08.com^
@@ -14415,6 +14425,7 @@
 ||http://hxiak.com^
 ||http://hxyssd.cn^
 ||http://hycfxdc.com^
+||http://hyjdz.cn^
 ||http://hytcsh.cn^
 ||http://hyuanprint.com^
 ||http://hyxca.top^
@@ -14867,6 +14878,7 @@
 ||http://ovoawh.com^
 ||http://ow*.biqugego.com^
 ||http://ox11.com^
+||http://oxsm.top^
 ||http://oycslia.xyz^
 ||http://oycslib.xyz^
 ||http://oycslic.xyz^
@@ -14927,6 +14939,7 @@
 ||http://qhweisen.cn^
 ||http://qhxcdmfj.cn^
 ||http://qi-shi.top^
+||http://qianb.ltd^
 ||http://qianggou8.top^
 ||http://qianqianxsw.com^*xhtml
 ||http://qianrenge.cc/qian/
@@ -15134,6 +15147,7 @@
 ||http://t3s9j.xyz^
 ||http://tabwl.com^
 ||http://tabyee.cn^
+||http://tahui.club^
 ||http://taikangshenyuan.com^
 ||http://taishijian.com^
 ||http://tajxgs.com^
@@ -15299,6 +15313,7 @@
 ||http://whsseqpcs.top^
 ||http://whxhhjx.com^
 ||http://whxjnwzhs.com^
+||http://win10zyb.cn^
 ||http://win999.com.cn^
 ||http://wjaa23.com^
 ||http://wjdfv.com^
@@ -18579,6 +18594,7 @@ https://weike87.com##.copy
 https://114la.com##.corner
 https://baidu.com##.corneradv
 https://51.com,wnacg.org##.couplet
+https://21ic.com##.couplet_ad2
 https://51wangdai.com##.couplet_gg
 https://51wangdai.com##.couplet_gg02
 https://tigtag.com##.couplet_l
@@ -21131,8 +21147,7 @@ https://eyuyao.com##div[id^="x_ad_"]
 https://oschina.net##div[name="detail_show_footer"]
 https://oschina.net##div[name="floatAdbox"]
 https://oschina.net##div[name^="index_banner_"]
-https://mp4er.com##div[onclick*=".exing101.com"]
-https://mp4er.com##div[onclick*=".exing113.com"]
+https://mp4er.com##div[onclick*="exing"]
 https://mp4er.com##div[onclick*="exvip23.com"]
 https://jsr9.com##div[onclick*="location"]
 https://nfmovies.com##div[onclick="openurl()"]
@@ -21281,6 +21296,7 @@ https://cnbeta.com##h2 > a[href^="https://active.greatroma.com"]
 https://ifeng.com#?#.box_list:-abp-has(.tuig)
 https://ifeng.com#?#div[class^="titleImg-"]:-abp-has(span[class^="source-"]:-abp-contains(推广))
 https://sina.cn##iframe[id^="sinaadtk_"]
+https://youzhidy.com##iframe[src^="data"]
 https://image.baidu.com#?#.newfcImgli:-abp-has(.fc-ad-tip)
 https://image.so.com#?#.cell:-abp-has(.txt:-abp-contains(广告))
 https://image.so.com#?#.imgcell:-abp-has(.txt:-abp-contains(广告))
@@ -25054,6 +25070,7 @@ http://weike87.com##.copy
 http://114la.com##.corner
 http://baidu.com##.corneradv
 http://51.com,wnacg.org##.couplet
+http://21ic.com##.couplet_ad2
 http://51wangdai.com##.couplet_gg
 http://51wangdai.com##.couplet_gg02
 http://tigtag.com##.couplet_l
@@ -27608,8 +27625,7 @@ http://eyuyao.com##div[id^="x_ad_"]
 http://oschina.net##div[name="detail_show_footer"]
 http://oschina.net##div[name="floatAdbox"]
 http://oschina.net##div[name^="index_banner_"]
-http://mp4er.com##div[onclick*=".exing101.com"]
-http://mp4er.com##div[onclick*=".exing113.com"]
+http://mp4er.com##div[onclick*="exing"]
 http://mp4er.com##div[onclick*="exvip23.com"]
 http://jsr9.com##div[onclick*="location"]
 http://nfmovies.com##div[onclick="openurl()"]
@@ -27758,6 +27774,7 @@ http://cnbeta.com##h2 > a[href^="https://active.greatroma.com"]
 http://ifeng.com#?#.box_list:-abp-has(.tuig)
 http://ifeng.com#?#div[class^="titleImg-"]:-abp-has(span[class^="source-"]:-abp-contains(推广))
 http://sina.cn##iframe[id^="sinaadtk_"]
+http://youzhidy.com##iframe[src^="data"]
 http://image.baidu.com#?#.newfcImgli:-abp-has(.fc-ad-tip)
 http://image.so.com#?#.cell:-abp-has(.txt:-abp-contains(广告))
 http://image.so.com#?#.imgcell:-abp-has(.txt:-abp-contains(广告))
