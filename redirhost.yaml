@@ -12,4 +12,3 @@ dns:
     geoip: true
     ipcidr:
       - 240.0.0.0/4
-    ipv6: true
